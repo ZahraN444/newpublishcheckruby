@@ -10,20 +10,20 @@ Simple calculator API hosted on APIMATIC
 Install the gem from the command line:
 
 ```bash
-gem install syed-subtain -v 4.0.1
+gem install syed-subtain -v 4.0.2
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'syed-subtain', '4.0.1'
+gem 'syed-subtain', '4.0.2'
 ```
 
-For additional gem details, see the [RubyGems page for the syed-subtain gem](https://rubygems.org/gems/syed-subtain/versions/4.0.1).
+For additional gem details, see the [RubyGems page for the syed-subtain gem](https://rubygems.org/gems/syed-subtain/versions/4.0.2).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.1/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.2/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -50,17 +50,17 @@ client = ApimaticCalculator::Client.new(
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.1/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.2/doc/controllers/simple-calculator.md)
 
 ## SDK Infrastructure
 
 ### HTTP
 
-* [HttpResponse](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.1/doc/http-response.md)
-* [HttpRequest](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.1/doc/http-request.md)
+* [HttpResponse](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.2/doc/http-response.md)
+* [HttpRequest](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.2/doc/http-request.md)
 
 ### Utilities
 
-* [ApiHelper](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.1/doc/api-helper.md)
-* [DateTimeHelper](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.1/doc/date-time-helper.md)
+* [ApiHelper](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.2/doc/api-helper.md)
+* [DateTimeHelper](https://www.github.com/ZahraN444/newpublishcheckruby/tree/4.0.2/doc/date-time-helper.md)
 
